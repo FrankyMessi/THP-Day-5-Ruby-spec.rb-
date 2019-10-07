@@ -13,11 +13,10 @@ def who_is_bigger(a,b,c)
     return "c is bigger"
     end
 end         
+ 
 
-def crazy_strings(string)
-    string = " "
-    return string.reverse.upcase.delete "LTA"
-end    
+
+
 
 
 
